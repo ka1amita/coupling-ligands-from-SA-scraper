@@ -1,8 +1,208 @@
-name,cas,reactions type
-Triphenylphosphine,603-35-0,"['Buchwald-Hartwig Cross Coupling Reaction', 'Heck Reaction', 'Hiyama Coupling', 'Negishi Coupling', 'Sonogashira Coupling', 'Stille Coupling', 'Suzuki-Miyaura Coupling']"
-XPhos,564483-18-7,['Cross Couplings']
-Xantphos,161265-03-8,['Cross Couplings']
-XPhos Pd G3,1445085-55-1,"['Buchwald-Hartwig Cross Coupling Reaction', 'Heck Reaction', 'Hiyama Coupling', 'Negishi Coupling', 'Sonogashira Coupling', 'Stille Coupling', 'Suzuki-Miyaura Coupling']"
-XPhos Pd G2,1310584-14-5,"['Buchwald-Hartwig Cross Coupling Reaction', 'Heck Reaction', 'Hiyama Coupling', 'Negishi Coupling', 'Sonogashira Coupling', 'Stille Coupling', 'Suzuki-Miyaura Coupling']"
-Trioctylphosphine,4731-53-7,"['Buchwald-Hartwig Cross Coupling Reaction', 'Heck Reaction', 'Hiyama Coupling', 'Negishi Coupling', 'Sonogashira Coupling', 'Stille Coupling', 'Suzuki-Miyaura Coupling']"
-tBuBrettPhos Pd G3,1536473-72-9,"['Buchwald-Hartwig Cross Coupling Reaction', 'Heck Reaction', 'Hiyama Coupling', 'Negishi Coupling', 'Sonogashira Coupling', 'Stille Coupling', 'Suzuki-Miyaura Coupling']"
+name,CAS,Pd,Fe,Hiyama Coupling,Cross Couplings,Buchwald-Hartwig Cross Coupling Reaction,Acetylations,Coupling Reactions,Stille Coupling,Sonogashira Coupling,Suzuki-Miyaura Coupling,solution phase peptide synthesis,Heck Reaction,Negishi Coupling
+Triphenylphosphine,603-35-0,,,1,,1,,,1,1,1,,1,1
+XPhos,564483-18-7,,,,1,,,,,,,,,
+Xantphos,161265-03-8,,,,1,,,,,,,,,
+XPhos Pd G3,1445085-55-1,1,,1,,1,,,1,1,1,,1,1
+XPhos Pd G2,1310584-14-5,1,,1,,1,,,1,1,1,,1,1
+Trioctylphosphine,4731-53-7,,,1,,1,,,1,1,1,,1,1
+tBuBrettPhos Pd G3,1536473-72-9,1,,1,,1,,,1,1,1,,1,1
+Triphenylphosphine oxide,791-28-6,,,,,,,,,,,,,
+Tricyclohexylphosphine,2622-14-2,,,,1,,,,,,,,,
+Trioctylphosphine oxide,78-50-2,,,1,,1,,,1,1,1,,1,1
+RuPhos,787618-22-8,,,,1,,,,,,,,,
+Bis(di-tert-butyl(4-dimethylaminophenyl)phosphine)dichloropalladium(II),887919-35-9,1,,1,,1,,,1,1,1,,1,1
+BrettPhos Pd G3,1470372-59-8,1,,1,,1,,,1,1,1,,1,1
+cataCXium® A Pd G3,1651823-59-4,1,,1,,1,,,1,1,1,,1,1
+DPPF,12150-46-8,,1,,,,,,,,,,,
+Tri-tert-butylphosphine,13716-12-6,,,,1,,,,,,,,,
+rac-BINAP,98327-87-8,,,,,,,,,,,,,
+XantPhos Pd G3,1445085-97-1,1,,1,,1,,,1,1,1,,1,1
+SPhos,657408-07-6,,,1,1,1,,,1,1,1,,1,1
+RuPhos Pd G3,1445085-77-7,1,,1,,1,,,1,1,1,,1,1
+XPhos Pd G4,1599466-81-5,1,,1,,1,,,1,1,1,,1,1
+cataCXium® A,321921-71-5,,,,,,,,,,,,,
+tBuXPhos Pd G3,1447963-75-8,1,,1,,1,,,1,1,1,,1,1
+Tri(o-tolyl)phosphine,6163-58-2,,,,1,,,,,,,,,
+SPhos Pd G3,1445085-82-4,1,,1,,1,,,1,1,1,,1,1
+tBuXPhos,564483-19-8,,,,1,,,,,,,,,
+tBuBrettPhos,1160861-53-9,,,,1,,,,,,,,,
+BrettPhos,1070663-78-3,,,,1,,,,,,,,,
+Tri-tert-butylphosphonium tetrafluoroborate,131274-22-1,,,,1,,,,,,,,,
+RuPhos Pd G4,1599466-85-9,1,,1,,1,,,1,1,1,,1,1
+JohnPhos,224311-51-7,,,,1,,,,,,,,,
+Trimethylphosphine,594-09-2,,,1,,1,,,1,1,1,,1,1
+"Triphenylphosphine, polymer-bound",39319-11-4,,,1,,1,,,1,1,1,1,1,1
+Tributylphosphine,998-40-3,,,1,,1,,,1,1,1,,1,1
+DavePhos,213697-53-1,,,,1,,,,,,,,,
+BrettPhos Pd G4,1599466-83-7,1,,1,,1,,,1,1,1,,1,1
+cataCXium Pd G4,2230788-67-5,1,,1,,1,,,1,1,1,,1,1
+Bis(triphenylphosphine)palladium(II) dichloride,13965-03-2,1,,1,,1,,,1,1,1,,1,1
+Tris(dimethylamino)phosphine,1608-26-0,,,,,,,,,,,,,
+Tris(diethylamino)phosphine,2283-11-6,,,1,,1,,,1,1,1,,1,1
+SPhos Pd G2,1375325-64-6,1,,1,,1,,,1,1,1,,1,1
+CyJohnPhos,247940-06-3,,,,1,,,,,,,,,
+Tricyclohexylphosphine tetrafluoroborate,58656-04-5,,,,1,,,,,,,,,
+P(t-Bu)3 Pd G2,1375325-71-5,1,,1,,1,,,1,1,1,,1,1
+RuPhos Pd G2,1375325-68-0,1,,1,,1,,,1,1,1,,1,1
+rac-BINAP-Pd-G3,2151915-22-7,1,,1,,1,,,1,1,1,,1,1
+Tri(2-furyl)phosphine,5518-52-5,,,,,,,,,,,,,
+(R)-1-[(SP)-2-(Dicyclohexylphosphino)ferrocenyl]ethyldi-tert-butylphosphine,158923-11-6,,1,1,,1,,,1,1,1,,1,1
+Josiphos SL-J009-1 Pd G3,1702311-34-9,1,1,1,,1,,,1,1,1,,1,1
+SPhos Pd G4,1599466-87-1,1,,1,,1,,,1,1,1,,1,1
+APhos,932710-63-9,,,1,,1,,,1,1,1,,1,1
+Tris(4-methoxyphenyl)phosphine,855-38-9,,,1,,1,,,1,1,1,,1,1
+Me4tButylXphos,857356-94-6,,,,1,,,,,,,,,
+AdBrettPhos Pd G3,1445972-29-1,1,,1,,1,,,1,1,1,,1,1
+P(t-Bu)3 Pd G4,1621274-11-0,1,,1,,1,,,1,1,1,,1,1
+XantPhos Pd G4,1621274-19-8,1,,1,,1,,,1,1,1,,1,1
+Bis(p-sulfonatophenyl)phenylphosphine dihydrate dipotassium salt,308103-66-4,,,,,,,,,,,,,
+RockPhos Pd G3,2009020-38-4,1,,1,,1,,,1,1,1,,1,1
+DTBPF,84680-95-5,,1,,,,,,,,,,,
+Dimethylphenylphosphine,672-66-2,,,1,,1,,,1,1,1,,1,1
+"1,2,3,4,5-Pentaphenyl-1′-(di-tert-butylphosphino)ferrocene",312959-24-3,,1,,,,,,,,,,,
+Triethylphosphine oxide,597-50-2,,,1,,1,,,1,1,1,,1,1
+"1,3,5-Triaza-7-phosphaadamantane",53597-69-6,,,,,,,,,,,,,
+Tris(trimethylsilyl)phosphine,15573-38-3,,,1,,1,,,1,1,1,,1,1
+Tris(hydroxymethyl)phosphine,2767-80-8,,,1,,1,,,1,1,1,,1,1
+Tributylphosphine oxide,814-29-9,,,1,,1,,,1,1,1,,1,1
+Tris(4-fluorophenyl)phosphine,18437-78-0,,,1,,1,,,1,1,1,,1,1
+JackiePhos,1160861-60-8,,,,1,,,,,,,,,
+Methyldiphenylphosphine,1486-28-8,,,1,,1,,,1,1,1,,1,1
+Tris(pentafluorophenyl)phosphine,1259-35-4,,,1,,1,,,1,1,1,,1,1
+cataCXium® A Pd G2,1375477-29-4,1,,1,,1,,,1,1,1,,1,1
+"5-(Di-tert-butylphosphino)-1′, 3′, 5′-triphenyl-1′H-[1,4′]bipyrazole",894086-00-1,,,,1,,,,,,,,,
+Triethylphosphine solution,554-70-1,,,,,,,,,,,,,
+4-(Diphenylphosphino)benzoic acid,2129-31-9,,,1,,1,,,1,1,1,,1,1
+TrixiePhos,255836-67-0,,,1,,1,,,1,1,1,,1,1
+KitAlysis™ High-Throughput Miyaura Borylation Reaction Screening Kit-Pack of 2,not found,,,1,1,1,,,1,1,1,,1,1
+EPhos Pd G4,2132978-44-8,1,,1,,1,,,1,1,1,,1,1
+Cyclohexyldiphenylphosphine,6372-42-5,,,1,,1,,,1,1,1,,1,1
+Diphenyl-2-pyridylphosphine,37943-90-1,,,,,,,,,,,,,
+DavePhos-Pd-G3,1445085-87-9,1,,1,,1,,,1,1,1,,1,1
+2-(Diphenylphosphino)ethylamine,4848-43-5,,,1,,1,,,1,1,1,,1,1
+Di-1-adamantylphosphine,131211-27-3,,,1,,1,,,1,1,1,,1,1
+AdCyBrettPhos,2197989-24-3,,,1,,1,,,1,1,1,,1,1
+"1,3-Bis(dicyclohexylphosphino)propane bis(tetrafluoroborate)",1002345-50-7,,,1,,1,,,1,1,1,,1,1
+2-(Diphenylphosphino)benzoic acid,17261-28-8,,,1,,1,,,1,1,1,,1,1
+XantPhos-Pd-G2,1375325-77-1,1,,1,,1,,,1,1,1,,1,1
+Ephos,2118959-55-8,,,1,,1,,,1,1,1,,1,1
+"1,3,5,7-Tetramethyl-6-phenyl-2,4,8-trioxa-6-phosphaadamantane",97739-46-3,,,1,,1,,,1,1,1,,1,1
+CPhos,1160556-64-8,,,1,,1,,,1,1,1,,1,1
+"Tris(2,4,6-trimethylphenyl)phosphine",23897-15-6,,,1,,1,,,1,1,1,,1,1
+sSPhos,1049726-96-6,,,,1,,,,,,,,,
+AdBrettPhos,1160861-59-5,,,1,,1,,,1,1,1,,1,1
+P(Cy3) Pd G3,1445086-12-3,1,,1,,1,,,1,1,1,,1,1
+2-(Diphenylphosphino)benzaldehyde,50777-76-9,,,1,,1,,,1,1,1,,1,1
+MePhos,251320-86-2,,,,,,,,,,,,,
+"Di-tert-butyl N,N-diisopropylphosphoramidite",137348-86-8,,,1,,1,,,1,1,1,,1,1
+tBuXPhos Pd G1,1142811-12-8,1,,1,,1,,,1,1,1,,1,1
+Tri-1-naphthylphosphine,3411-48-1,,,1,,1,,,1,1,1,,1,1
+Di(1-adamantyl)-2-dimethylaminophenylphosphine,1219080-77-9,,,,,,,,,,,,,
+"Tris(2,4,6-trimethoxyphenyl)phosphine",91608-15-0,,,1,,1,,,1,1,1,,1,1
+CPhos Pd G4,1810068-32-6,1,,1,,1,,,1,1,1,,1,1
+"1,1′-Bis(dicyclohexylphosphino)ferrocene",146960-90-9,,1,1,,1,,,1,1,1,,1,1
+Tris(4-chlorophenyl)phosphine,1159-54-2,,,1,,1,,,1,1,1,,1,1
+4-(Diphenylphosphino)styrene,40538-11-2,,,1,,1,,,1,1,1,,1,1
+PhDave-Phos,240417-00-9,,,,1,,,,,,,,,
+t-BuDavePhos,224311-49-3,,,,,,,,,,,,,
+N-XantPhos Pd G4,1878105-23-7,1,,1,,1,,,1,1,1,,1,1
+Bis(dicyclohexylphosphinophenyl) ether,434336-16-0,,,1,,1,,,1,1,1,,1,1
+tBuMePhos,255837-19-5,,,,,,,,,,,,,
+Bis(dimethylamino)chlorophosphine,3348-44-5,,,1,,1,,,1,1,1,,1,1
+DPPF Pd G4,1621274-17-6,1,1,1,,1,,,1,1,1,,1,1
+MorDalphos Pd G3,2222690-89-1,1,,1,,1,,,1,1,1,,1,1
+RuPhos Pd G1 Methyl t­-Butyl Ether Adduct,2361069-97-6,1,,1,,1,,,1,1,1,,1,1
+Di-tert-butylphosphate potassium salt,33494-80-3,,,1,,1,,,1,1,1,,1,1
+PCy3 Pd G2,1353658-81-7,1,,1,,1,,,1,1,1,,1,1
+4MetBuXPhos Pd G3,1507403-85-1,1,,1,,1,,,1,1,1,,1,1
+rac-BINAP Pd G4,1599466-90-6,1,,1,,1,,,1,1,1,,1,1
+Di-tert-butylphosphine oxide,684-19-5,,,1,,1,,,1,1,1,,1,1
+"4-(Diethylphosphino)-N,N-dimethylaniline",17005-57-1,,,1,,1,,,1,1,1,,1,1
+APhos Pd G2,2169976-34-3,1,,1,,1,,,1,1,1,,1,1
+DavePhos Pd G4,1621274-13-2,1,,1,,1,,,1,1,1,,1,1
+Tris[2-(diphenylphosphino)ethyl]phosphine,23582-03-8,,,1,,1,,,1,1,1,,1,1
+"2,6-Bis(di-tert-butylphosphinomethyl)pyridine",338800-13-8,,,1,,1,,,1,1,1,,1,1
+4-(Dimethylamino)phenyldiphenylphosphine,739-58-2,,,1,,1,,,1,1,1,,1,1
+2-(2-(Diphenylphosphino)ethyl)pyridine,10150-27-3,,,1,,1,,,1,1,1,,1,1
+"[(1,3,5,7-Tetramethyl-6-phenyl-2,4,6-trioxa-6-phosphaadamantane)-2-(2′-amino-1,1′-biphenyl)]palladium(II) methanesulfonate",2230788-58-4,1,,1,,1,,,1,1,1,,1,1
+"Dicyclohexyl(4-(N,N-dimethylamino)phenyl)phosphine",40438-64-0,,,1,,1,,,1,1,1,,1,1
+"5-(Dicyclohexylphosphino)-1′,3′,5′-triphenyl-1′H-[1,4′]bipyrazole",1021176-69-1,,,1,,1,,,1,1,1,,1,1
+PCy3 Pd G4,2195390-53-3,1,,1,,1,,,1,1,1,,1,1
+MorDalPhos Pd G4,2230788-66-4,1,,1,,1,,,1,1,1,,1,1
+VPhos Pd G4,1848244-57-4,1,,1,,1,,,1,1,1,,1,1
+N-XantPhos Pd G3,1602922-03-1,1,,1,,1,,,1,1,1,,1,1
+tert-Butyldiphenylphosphine,6002-34-2,,,1,,1,,,1,1,1,,1,1
+Dicyclohexylphenylphosphine,6476-37-5,,,1,,1,,,1,1,1,,1,1
+PAd-DalPhos,1902911-38-9,,,1,,1,,,1,1,1,,1,1
+2-Diphenylphosphinoethyl-functionalized silica gel,1173020-99-9,,,1,,1,,,1,1,1,1,1,1
+Bis(2-methoxyphenyl)phosphine,10177-79-4,,,1,,1,,,1,1,1,,1,1
+3-(Diphenylphosphino)-1-propylamine,16605-03-1,,,1,,1,,,1,1,1,,1,1
+(4-Hydroxyphenyl)diphenylphosphine,5068-21-3,,,1,,1,,,1,1,1,,1,1
+"Bis(2,4,6-trimethylphenyl)phosphorus chloride",67950-05-4,,,1,,1,,,1,1,1,,1,1
+CyJohnPhos Pd G3,2230788-64-2,1,,1,,1,,,1,1,1,,1,1
+Allyldiphenylphosphine,2741-38-0,,,1,,1,,,1,1,1,,1,1
+"Tris(3,5-dimethylphenyl)phosphine",69227-47-0,,,1,,1,,,1,1,1,,1,1
+Isocyanatophosphonic dichloride,870-30-4,,,1,,1,,,1,1,1,,1,1
+Diphenyl(2-methoxyphenyl)phosphine,53111-20-9,,,1,,1,,,1,1,1,,1,1
+2-((Di-tert-butylphosphinomethyl)-6-diethylaminomethyl)pyridine,863971-66-8,,,1,,1,,,1,1,1,,1,1
+"(R)-(4,4′,6,6′-Tetramethoxybiphenyl-2,2′-diyl)bis(bis(3,5-di-tert-butyl-4-methoxyphenyl)phosphine",1365531-98-1,,,1,,1,,,1,1,1,,1,1
+(6-Bromohexyl)triphenylphosphonium bromide,83152-22-1,,,,,,,,,,,,,
+Di-tert-butylphenylphosphine,32673-25-9,,,1,,1,,,1,1,1,,1,1
+Diphenyl(p-tolyl)phosphine,1031-93-2,,,1,,1,,,1,1,1,,1,1
+2-(Di-tert-butylphosphino)dimethylaminobenzene,415941-58-1,,,1,,1,,,1,1,1,,1,1
+HandaPhos,1908442-13-6,,,1,,1,,,1,1,1,,1,1
+t-BuDavePhos Pd G4,1507403-97-5,1,,1,,1,,,1,1,1,,1,1
+(2-Bromophenyl)diphenylphosphine,62336-24-7,,,1,,1,,,1,1,1,,1,1
+DavePhos Pd G2,2195390-17-9,1,,1,,1,,,1,1,1,,1,1
+Tetrapropylphosphonium bromide,63462-98-6,,,1,,1,,,1,1,1,,1,1
+EvanPhos,2223634-83-9,,,1,,1,,,1,1,1,,1,1
+"2-(4,5-Dihydro-2-oxazolyl)quinoline",202191-12-6,,,,,,,,,,,,,
+"Bis(3,5-bis(trifluoromethyl)phenyl)(2′,6′-bis(isopropoxy)-3,6-dimethoxybiphenyl-2-yl)phosphine",1810068-31-5,,,1,,1,,,1,1,1,,1,1
+Bis(diethylamino)phenylphosphine,1636-14-2,,,1,,1,,,1,1,1,,1,1
+Neopentyl(t-Bu)2P Pd G3,2098641-08-6,1,,1,,1,,,1,1,1,,1,1
+Isopropyldiphenylphosphine,6372-40-3,,,1,,1,,,1,1,1,,1,1
+Cy-cBRIDP,1023330-38-2,,,1,,1,,,1,1,1,,1,1
+Di-tert-butylneopentylphosphonium tetrafluoroborate,886059-84-3,,,1,,1,,,1,1,1,,1,1
+"1,1′-Bis(phenylphosphinidene)ferrocene",72954-06-4,,1,1,,1,,,1,1,1,,1,1
+Ethyldiphenylphosphine oxide,1733-57-9,,,1,,1,,,1,1,1,,1,1
+Tricyclopentylphosphine tetrafluoroborate,610756-04-2,,,1,,1,,,1,1,1,,1,1
+"Bis(3,5-bis(trifluoromethyl)phenyl)(2′,6′-bis(dimethylamino)-3,6-dimethoxybiphenyl-2-yl)phosphine",1810068-30-4,,,1,,1,,,1,1,1,,1,1
+"Tris(4-methoxy-3,5-dimethylphenyl)phosphine",121898-64-4,,,1,,1,,,1,1,1,,1,1
+2-(2′-Di-tert-butylphosphine)biphenylpalladium(II) acetate,577971-19-8,1,,1,,1,,,1,1,1,,1,1
+"Dichloro[2-(4,5-dihydro-2-oxazolyl)quinoline]palladium(II)",1150097-98-5,1,,1,,1,,,1,1,1,,1,1
+vBRIDP,384842-25-5,,,1,,1,,,1,1,1,,1,1
+"(R)-(4,4′,6,6′-Tetramethoxybiphenyl-2,2′-diyl)bis(bis(3,5-dimethylphenyl)phosphine)",1365531-89-0,,,1,,1,,,1,1,1,,1,1
+2′-(Dimethylamino)-2-biphenylyl-palladium(II) chloride Dinorbornylphosphine complex,359803-53-5,1,,1,,1,,,1,1,1,,1,1
+CPhos Pd G2,2230788-62-0,1,,1,,1,,,1,1,1,,1,1
+Benzyldiphenylphosphine,7650-91-1,,,1,,1,,,1,1,1,,1,1
+(2-Bromophenyl)dicyclohexylphosphine,757958-40-0,,,1,,1,,,1,1,1,,1,1
+Bis[(dicyclohexyl)(4-dimethylaminophenyl)phosphine] palladium(II) chloride,945375-77-9,1,,1,,1,,,1,1,1,,1,1
+Cy-vBRIDP,384842-24-4,,,1,,1,,,1,1,1,,1,1
+Triisopropylphosphonium tetrafluoroborate,121099-07-8,,,1,,1,,,1,1,1,,1,1
+Bis[2-(diadamantylphosphino)ethyl]amine,1086138-36-4,,,1,,1,,,1,1,1,,1,1
+2-(Di-p-tolylphosphino)benzaldehyde,1202865-03-9,,,1,,1,,,1,1,1,,1,1
+(t-Bu)2PhP Pd G3,2230788-65-3,1,,,,,,,,,,,,
+2-(Diphenylphosphino)ethanaminium tetrafluoroborate,1222630-32-1,,,1,,1,,,1,1,1,,1,1
+"(S)-(4,4′,6,6′-Tetramethoxybiphenyl-2,2′-diyl)bis(bis(3,5-di-tert-butyl-4-methoxyphenyl)phosphine",1365531-99-2,,,1,,1,,,1,1,1,,1,1
+(S)-1-(Diphenylphosphino)-3-methyl-2-butylamine,146476-37-1,,,1,,1,,,1,1,1,,1,1
+Poly(ethylene glycol) triphenylphosphine,238403-28-6,,,1,,1,,,1,1,1,1,1,1
+"(1R,2R)-2-(Diphenylphosphino)cyclohexylamine",452304-59-5,,,1,,1,,,1,1,1,,1,1
+Triphenylphosphineimine hemisulfate salt,109724-97-2,,,1,,1,,,1,1,1,,1,1
+(R)-1-(Diphenylphosphino)-3-methyl-2-butylamine,1400149-69-0,,,1,,1,,,1,1,1,,1,1
+Di-μ-chlorobis[5-chloro-2-[(4-chlorophenyl)(hydroxyimino-κN)methyl]phenyl-κC]palladium dimer,287410-78-0,1,,1,,1,,,1,1,1,,1,1
+"2-[Bis(3,5-di-tert-butyl-4-methoxyphenyl)phosphino]benzaldehyde",1202865-21-1,,,1,,1,,,1,1,1,,1,1
+"2-[Bis(3,5-dimethylphenyl)phosphino]benzaldehyde",669091-00-3,,,1,,1,,,1,1,1,,1,1
+(t-Bu)2PMe-Pd-G3,2128748-50-3,1,,,,,,,,,,,,
+Di-μ-chlorobis[5-hydroxy-2-[1-(hydroxyimino-κN)ethyl]phenyl-κC]palladium(II) dimer,419581-64-9,1,,1,,1,,,1,1,1,,1,1
+"(1R,2R)-2-Amino-1-phenylpropyldiphenylphosphine",799297-44-2,,,1,,1,,,1,1,1,,1,1
+CyJohnPhos Pd G2,2230788-61-9,1,,1,,1,,,1,1,1,,1,1
+5-(Di-tert-butylphosphino)-1-(naphthalen-1-yl)-1H-pyrazole,894085-97-3,,,1,,1,,,1,1,1,,1,1
+((4-Trifluoromethyl)phenyl)di-tert-butylphosphine,1228182-34-0,,,1,,1,,,1,1,1,,1,1
+9-[2-(Diisopropylphosphino)phenyl]-9H-carbazole,1308652-65-4,,,1,,1,,,1,1,1,,1,1
+N-[2-(Diphenylphosphino)benzylidene]cyclohexylamine,321155-13-9,,,1,,1,,,1,1,1,,1,1
+Di(1-adamantyl)-(2-triisopropylsiloxyphenyl)phosphine,1384966-55-5,,,1,,1,,,1,1,1,,1,1
+Neopentyl-tBu2P Pd G2,2230788-59-5,1,,1,,1,,,1,1,1,,1,1
+"Chloro(η2-P,C-tris(2,4-di-tert-butylphenyl)phosphite)(tricyclohexylphosphine)palladium(II)",502964-53-6,1,,1,,1,,,1,1,1,,1,1
+tert-Butyldiisopropylphosphine,51567-05-6,,,1,,1,,,1,1,1,,1,1
+2-(Dimethylaminomethyl)ferrocen-1-yl-palladium(II) chloride Dinorbornylphosphine Complex,614753-51-4,1,1,1,,1,,,1,1,1,,1,1
+Diethyl 4-(trifluoromethyl)benzylphosphonate,99578-68-4,,,1,,1,,,1,1,1,,1,1
